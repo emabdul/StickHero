@@ -1,0 +1,470 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  serializedVersion: 2
+  m_ObjectHideFlags: 0
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Unicorn/Scenes/Splash.unity
+    guid: 989f24f538cf907408ed02fdc4a7ca90
+  - enabled: 1
+    path: Assets/Unicorn/Scenes/MasterLevel.unity
+    guid: fd74a4c69915f3c4382811bd57dd32c6
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/LobbyScene.unity
+    guid: 45ecf53035da30b40b2948f9d85fcc93
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/BrothelScene.unity
+    guid: 35199abc026361d40942d6118a1ff497
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 1 _ Tut.unity
+    guid: 210b97bb2e10e804c9a8ac948b69b930
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 2 _ Tut.unity
+    guid: 1534f3b8d97dc344a81cf8d7fe996b8b
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 3 _ Boss.unity
+    guid: f4cdeeb4aa2d5a541974aa8da6334e5d
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 4 _ Normal.unity
+    guid: 26f904854b2cedd4d9ce44fdaebbae67
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 5 _ Princess.unity
+    guid: bfb26f1c31caec24cb2b46ca7223abab
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Vertical/Vertical 1.unity
+    guid: fb1fa9e4f1353604f9f24f76479a18c2
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 91_Boss.unity
+    guid: 448cc9d0dbb7abc4dab3a082a646ad75
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 6 _ Normal.unity
+    guid: 8c3d63effba66fc42898d49ad262cf80
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 7 _ Normal.unity
+    guid: 2f3601f9e91b05047b4a669e8be1902d
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Bonus/LevelBonus 1.unity
+    guid: 727a75416a55abb4f97698c8280ded02
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 8 _ Normal.unity
+    guid: 48e9894c4292fdd4ea2fb04f4df85b54
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 9 _ Boss.unity
+    guid: fad164373a93f154caf38bfaaf64e8ac
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 10 _ Princess.unity
+    guid: c56f8afe60a5dbc479bde15fc6dc4f08
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Vertical/Vertical 3.unity
+    guid: c9422552bb5d3884f8f3f9ee540e8e40
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 11 _ Treasure.unity
+    guid: 6e016f95e2c35e34c9d43bb4492361a5
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 15_Boss.unity
+    guid: 0aec4184d7e69ef40a7335e1a2fb302c
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 12 _ Treasure.unity
+    guid: 651b0934d08ba0a41a1c9c6cc1d4157e
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 13 _ Boss.unity
+    guid: c88d57335c3413546acea3a2dd8d9f17
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Bonus/LevelBonus 2.unity
+    guid: 21e9e5b807048394989e573f513d03fc
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 14 _ Princess.unity
+    guid: 1704f644215fe1c488e8ff2f461d3670
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Vertical/Vertical 2 _ Video.unity
+    guid: ceb40bd32e9fada4e8b84a3b5dd3edc2
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 16_Boss.unity
+    guid: 2ebe60c42320db347b27d24ada7bb432
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 17 _ Normal.unity
+    guid: 9704a954f1ca46b438fa682221d45e65
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 18 _ Princess.unity
+    guid: 96895749e8a1943448aaa5c6a13ad8f9
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 19 _ Treasure _ Video.unity
+    guid: 376e954e9bdc31449893500d23428676
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 20_Boss.unity
+    guid: 094bdf5d70ca76d47b8baad5d14fc9e7
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Bonus/LevelBonus 3 _ Video.unity
+    guid: 35bf4f0e58523a84aa86f31d7606d86e
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 21 _ Normal.unity
+    guid: 30130f552046f2346ab927d7fb3569f9
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 22 _ Princess.unity
+    guid: 6d9dec29d38fe5143a3fe5600f5fd6c3
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 23 _ Princess.unity
+    guid: 696db2adbb96c1d428c91821fbf8858a
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 24_Boss.unity
+    guid: 13e035b0ae256124f93a0f56767c8897
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 25 _ Normal.unity
+    guid: 88451a902d3f2784993651306aff0d81
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 26 _ Normal.unity
+    guid: ed62eeee996a54049a0e0fdbc4d7c346
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 27 _ Princess.unity
+    guid: 3a37f3f034757af428ddabc29d8e421b
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Vertical/Vertical 4 _ Video.unity
+    guid: 272a30a954b54ed449fbc244f07b469b
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Bonus/LevelBonus 4 _ Video.unity
+    guid: ada8fa992eb55a74f800d3112db14c74
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 30_Boss.unity
+    guid: 0cf75cb207f1a434e9d0f4c968b60d87
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 28 _ Treasure.unity
+    guid: 9083af9521f373d4687d2c9ebac5fa7c
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 29 _ Princess.unity
+    guid: 2fa2d7dba5948f5479461b5cc4b6160b
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 92_Boss.unity
+    guid: aeb1db882079abd49b86d4df229150d7
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 31 _ Normal.unity
+    guid: 07dc2c9e733a7d9439e13f868d580488
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 32 _ Normal.unity
+    guid: 6b0be8a4a2d45164ea4474a85d2f5aca
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 34 _ Treasure.unity
+    guid: 24c7973a455334e4dab9477744de8ac7
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 47 _ Boss.unity
+    guid: 62d7c5c654b43f84d8d00615f5ef7a0c
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Bonus/LevelBonus 5 _ Video.unity
+    guid: 95e40cd0f20c56a4d8118ddc11b64e7a
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 33 _ Princess.unity
+    guid: 954e103dd6dbdea47beb24adbed63b2f
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 36 _ Normal.unity
+    guid: d555160b294045d48ae43c164ccc58a1
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 35 _ Princess _ Video.unity
+    guid: 5b7eff276507be143921cbd4f46bd9c0
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 37 _ Treasure.unity
+    guid: 7a281f9b0e492b64a91e500fdba41927
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 38 _ Normal.unity
+    guid: 88a1fc5f1c9e91444b9648926e7461fb
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 93_Boss.unity
+    guid: fb80e87493fb3d34fb2c659cfd900b4e
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 40 _ Treasure.unity
+    guid: 3b930af91888b4d47927c4a5c70b049a
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 41 _ Treasure.unity
+    guid: 9810b43f31456bb4781a05094abb9fa1
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Vertical/Vertical 5 _ Video.unity
+    guid: f6b4bf5f44de97140bea44761276897f
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 39 _ Princess.unity
+    guid: 70875a6fe1701b34e88c44bd3d664986
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 45 _ Normal.unity
+    guid: bb60f764349a5c24a9cadfc8a2f66c13
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 50 _ Boss.unity
+    guid: 73a973a255b7a2e4faac3631a84038c7
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Bonus/LevelBonus 6 _ Video.unity
+    guid: 4d36ea8190c42184aa4dc79f316d0664
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 42 _ Princess.unity
+    guid: e35d5a1845566554785e5bbaeed509e2
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 43 _ Treasure.unity
+    guid: c219f8f2f7406114880cac7ef3e15370
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 48 _ Normal.unity
+    guid: dc8afb965b7d4eb458731332b548ca03
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 49 _ Normal.unity
+    guid: 13a30f36775194e47be68817ea8a65e8
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 46 _ Princess.unity
+    guid: 3d461c82b49675a448ca9b3a3e81ccc0
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 1_50/Level 44 _ Princess _ Video.unity
+    guid: 25abaa43441708347a40199383cda535
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Bonus/LevelBonus 7.unity
+    guid: 57dd7cc10749e824389abb723d7b7053
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 52 _ Normal.unity
+    guid: b834f1db512294046a64813eb9e13dc1
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 55 _ Normal.unity
+    guid: 0804c5bd57d87ef4fa43278cbfdb21aa
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Vertical/Vertical 6.unity
+    guid: 06354394ca47cb748baeab0673c11e59
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 54 _ Boss.unity
+    guid: ec853b457b8dacf4ca1a33dd9361f327
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 53 _ Princess.unity
+    guid: 610434a8832401d4d809c4f43760d992
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 56 _ Treasure.unity
+    guid: cc7fa549ab4e6fa42834f36362ad078e
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 58 _ Normal.unity
+    guid: 1b3813e3ce8c1c14b9a1099250c1b5c9
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 57 _ Princess.unity
+    guid: 23bebed4a9b06fa45af3e1742438e60d
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 51 _ Normal _ Video.unity
+    guid: 5565c7ca8c3539d4b9a15770582c6a04
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 59 _ Boss.unity
+    guid: 47f6fef124e0fbd41a2f6c2a6c0458ef
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Bonus/LevelBonus 10.unity
+    guid: d62c58a6be9b3f44184bf3678f932cc9
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 60 _ Princess.unity
+    guid: 70595228a104cf04eaca8b87d66e1894
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 63 _ Normal.unity
+    guid: a61d83cfa88acd84d959ab1067ed26f0
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Vertical/Vertical 7.unity
+    guid: 121d2a97a2cfe334db823bc022b1e608
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 62 _ Treasure.unity
+    guid: a4c6e14078887024e8f10ea1f1f171c9
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 65 _ Normal.unity
+    guid: 15a0261636c11aa4182565016efd82ca
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 64 _ Treasure.unity
+    guid: af4f543beca39de4bbf7755d40d4cee4
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 66 _ Normal.unity
+    guid: db96e28518b728e439a1d35deeb58996
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 82 _ Boss.unity
+    guid: 0d4ea9ad01fa7ea429d6d6244428b752
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 67 _ Princess.unity
+    guid: 7048b88e48b0680419b2e3d3e6fbdef4
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 68 _ Treasure.unity
+    guid: 3ff68b47d2683cb49894d4bbbabfda65
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 69 _ Treasure.unity
+    guid: 292ab4024ba071143b4d5beffbbd331e
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Vertical/Vertical 8.unity
+    guid: 0141c266409129e41bec2deb619b3699
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 61 _ Princess_Video.unity
+    guid: 3ce9417950e52094ea55924b1023e57e
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Bonus/LevelBonus 9.unity
+    guid: 6603e0e53ca582c449ea25d3347c062b
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 72 _ Normal.unity
+    guid: 127bb2ad8b0d2444cae51b5b0030a1ec
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 73 _ Normal.unity
+    guid: f09e90ec77daee244acc519120f5e2d9
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 70 _ Boss.unity
+    guid: b2b5ae186bf98a143957fa793d850d2d
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 76 _ Princess.unity
+    guid: 94b1d1f369265c143990cb66694594fb
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 71 _ Princess.unity
+    guid: 35c1fe326829db64a8152aebb430e7da
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Vertical/Vertical 9.unity
+    guid: 1d3cf9c7fecb0964296211913ec3eb3e
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 74 _ Normal.unity
+    guid: 3f4c00f5bf653ca4f8b2f19fd688cc16
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 75 _ Normal.unity
+    guid: efca62287d4f08543bf7cc78b7182880
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 78 _ Boss.unity
+    guid: a0e5bc5d116c06c459f579730e31debf
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Bonus/LevelBonus 8.unity
+    guid: 08c6552186d4b4f4fa8903273d757554
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 80 _ Normal.unity
+    guid: 4a93fb808c8af3345ab24f2550ece167
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 79 _ Treasure.unity
+    guid: f6bcacd8952cc6c42ba2b58a424b5d9a
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Vertical/Vertical 10.unity
+    guid: 6c39495c78412224a9dc16f691876f06
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 77 _ Princess.unity
+    guid: 73bf49891072a7341ac1b87b88b008a5
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 81 _ Boss.unity
+    guid: a6392587a2f689940bf553f9a7494a80
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Bonus/LevelBonus 11.unity
+    guid: a76484b1bc27c0f419df2198670eb327
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Vertical/Vertical 11.unity
+    guid: 2beb037df3251e94c93f301e192c4e69
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 84 _ Normal.unity
+    guid: 040c41cd53750d245b13013e878e4497
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 83 _ Treasure.unity
+    guid: 38d0074dd3902b249a84bc23456733a0
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 87 _ Treasure.unity
+    guid: ec5543fa8d1f6a44288e4c6c52eff241
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 89 _ Princess.unity
+    guid: 4dbcd4a4108aba94abb87739ec78d725
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 90 _ Boss.unity
+    guid: 4dde0a4df9580b0469c5f9077012131d
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Bonus/LevelBonus 12.unity
+    guid: 0d70a8d28094c3448bddbb95836a3347
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Vertical/Vertical 12.unity
+    guid: 40752b04d22b43647b8ad0d3c59c1d1d
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 88 _ Normal.unity
+    guid: f5e4eeb5df2d72848893fb1b4086b7b8
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 86 _ Normal.unity
+    guid: d97feef69030003458602a92ba5178a2
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 95 _ Princess.unity
+    guid: 940b5ab3ac7decd4ebce88bee91475c0
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 94 _ Normal.unity
+    guid: 3e0f9a160b8877044b723b1eb528188e
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 97 _ Normal.unity
+    guid: bf5b1319122a93d40a370e9f9e13904f
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 96 _ Boss.unity
+    guid: 8957c3d50c599094f830860faf9a81c6
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Vertical/Vertical 13.unity
+    guid: 42e3fbb6048990a49b2a1c12bad92edc
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Bonus/LevelBonus 15.unity
+    guid: 6e1e10f2558ba4a4986c125a5719424c
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 85 _ Normal _ Video.unity
+    guid: c368bd98c83897e448e191171ba6d432
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Vertical/Vertical 14.unity
+    guid: 75fcf204371134545b7c072e0c3c44e4
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Bonus/LevelBonus 14.unity
+    guid: 5bdd58b4a6edb3c4cb821bd6bdd309c4
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 98 _ Treasure.unity
+    guid: 476d84710148f144ca25b95af140223a
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 99 _ Treasure.unity
+    guid: 3c4aef99d9f76654cba3f24a326f9f22
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Vertical/Vertical 15.unity
+    guid: 065a3e768af6d1e4eb857d3753b95989
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 51_100/Level 100 _ Boss.unity
+    guid: 3dee349e82cb0804fa09f318957b3b27
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 101 _ Normal.unity
+    guid: 71587708f50e1be4c8f3c81209cb85ab
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 103 _ Normal.unity
+    guid: 858f471612b7d704c82a753d566f3c0b
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 102 _ Princess.unity
+    guid: bad4c012ed679224894cc4436124afc9
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 109 _ Boss.unity
+    guid: ed1a569911b118244bad64d66bd0d193
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Bonus/LevelBonus 13.unity
+    guid: 4d66642854ed2414f8131d489a4e1165
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 104 _ Treasure.unity
+    guid: 154c5b27fc952e743895b2161e6bf780
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 105 _ Treasure.unity
+    guid: d87fb1c505229ea46a20449ad5ff69fa
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 107 _ Normal.unity
+    guid: f88cad4c4ca8e1246ae6421cd1d9c3e1
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 106 _ Princess.unity
+    guid: 588b383b2b5891f41a2b2d9ba10cf806
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 108 _ Normal.unity
+    guid: 4cc7e1c9dee520842bc2c5fd1394c4fd
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 110 _ Normal.unity
+    guid: ab55b7fcce5fc454fb7ace614934c340
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 115 _ Boss.unity
+    guid: 6d1b87b665a3cee41aa29d6446de8d94
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 112 _ Treasure.unity
+    guid: 8375d480c352fe144a6d699e5ee666fb
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 113 _ Normal.unity
+    guid: a8f5c513e1701af49b79eb1c25ab1f52
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 114 _ Normal.unity
+    guid: fbf640cdba3dbbc48956a4dbd58b2418
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 111 _ Princess.unity
+    guid: bbeae90ec3a2b8643bf201b4d121bd37
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 116 _ Treasure.unity
+    guid: c1e397baa88f5f142b85c29726465e9b
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 117 _ Normal.unity
+    guid: d95d520bdae24f04ebf29e568ed553e5
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 118 _ Treasure.unity
+    guid: 51047cb1927bdc746936115cd91598cd
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 119 _ Normal.unity
+    guid: 4a13a6d06f0cf7942a8c7a6d7c29060d
+  - enabled: 1
+    path: Assets/1_Stick_War1/Scenes/Level Normal/Level 120 _ Boss.unity
+    guid: 4a83390db5b76744a9fcf7f9ff6a6a44
+  m_configObjects: {}

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 27e534c0b52a6ad47878ff892084a472, type: 3}
+  m_Name: DataTexture
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  IconCoin: {fileID: 21300000, guid: 4064a7ff10390dc4faea58ddbb2c8ea0, type: 3}
+  IconCoinLuckyWheel: {fileID: 21300000, guid: 4064a7ff10390dc4faea58ddbb2c8ea0, type: 3}
+  IconGemLuckyWheel: {fileID: 21300000, guid: 56584c7cf5b6da44f9aca11d0509ae00, type: 3}
+  ListIconSprKey:
+  - {fileID: 21300000, guid: 58f055fbd4e324b488e758199e1c02a7, type: 3}
+  - {fileID: 21300000, guid: 59d5eb007e5f4254aa2e726a190f7be5, type: 3}

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71914815673a56946a756171605e812e, type: 3}
+  m_Name: XRSystemData
+  m_EditorClassIdentifier:
+  shaders:
+    xrOcclusionMeshPS: {fileID: 4800000, guid: ea298f6d6efd51e4da4dbe1e6401caae, type: 3}
+    xrMirrorViewPS: {fileID: 4800000, guid: 10ac630b29fc0d94bbb6d5b59f1675ff, type: 3}

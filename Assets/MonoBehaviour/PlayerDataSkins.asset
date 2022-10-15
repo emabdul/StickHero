@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc5a1e3da1bd2114eb86913210fdf8be, type: 3}
+  m_Name: PlayerDataSkins
+  m_EditorClassIdentifier:
+  serializationData:
+    SerializedFormat: 0
+    SerializedBytes:
+    ReferencedUnityObjects: []
+    SerializedBytesString:
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  skinIcons:
+  - {fileID: 21300084, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300174, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300094, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300112, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300166, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300116, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300164, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300132, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 0}
+  skinColors:
+  - {r: 0, g: 0.08627451, b: 1, a: 1}
+  - {r: 0, g: 0.57254905, b: 0.57254905, a: 1}
+  - {r: 0.6313726, g: 0, b: 0.60784316, a: 1}
+  - {r: 0.039215688, g: 0.8117648, b: 0, a: 1}
+  - {r: 0.27450982, g: 0.27450982, b: 0.27450982, a: 1}
+  - {r: 0.78823537, g: 1, b: 0.09411766, a: 1}
+  - {r: 0.5137255, g: 0, b: 0.9960785, a: 1}
+  - {r: 0.9960785, g: 0.7686275, b: 0, a: 1}
+  numberTextures:
+  - {fileID: 2800000, guid: c48614c2a9e198f49a17427dfee3aafa, type: 3}
+  faceTextures:
+  - {fileID: 2800000, guid: 446f1e3505590904683a15e6719b3e97, type: 3}
+  - {fileID: 2800000, guid: f5ff21dd83bdd004c9dacdc9e486d341, type: 3}
+  - {fileID: 2800000, guid: eaaa2ccadeeac6944805f0b3ea82bb5b, type: 3}
+  - {fileID: 2800000, guid: 73593614bab632140989fd7c44088cf3, type: 3}
+  - {fileID: 2800000, guid: bd24fc54eb5ee6b47a6dca26806a40a4, type: 3}
+  - {fileID: 2800000, guid: d1d83fe217774924296544ffb10733bd, type: 3}
+  - {fileID: 2800000, guid: d30882bac6244dc49997f2475fe2662c, type: 3}
+  - {fileID: 2800000, guid: 158e36971432bfa41815ff12d529911d, type: 3}
+  - {fileID: 2800000, guid: f0a73a2b057f9864282c8267b694a08d, type: 3}
+  - {fileID: 2800000, guid: a609cccd736634a42a3fc553dc14eb03, type: 3}
+  - {fileID: 2800000, guid: ea372e90170b1b740b8a18ea622dca06, type: 3}
+  - {fileID: 2800000, guid: aecb8d4c5f1d8ef41803a2c3ee78c5b8, type: 3}
+  - {fileID: 2800000, guid: e42b2b93fb828484dbc30b7913a5618e, type: 3}
+  winTexture: {fileID: 2800000, guid: bd24fc54eb5ee6b47a6dca26806a40a4, type: 3}
+  loseTexture: {fileID: 2800000, guid: 42e5eba5167c96544acc573d2a68aca8, type: 3}
+  faceRenderer: {fileID: 23073645516851111, guid: b684e5cbebfc5df4fa84ad32ae07fd27, type: 2}
+  armorIcons:
+  - {fileID: 21300000, guid: 47a7ef330074004459d367d17b5351e0, type: 3}
+  - {fileID: 21300000, guid: 89a7eacb20c609641b443338882b9a61, type: 3}
+  - {fileID: 21300088, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300148, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300076, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  armorId: 0000000001000000020000000300000004000000
+  hatIcons:
+  - {fileID: 21300000, guid: 47a7ef330074004459d367d17b5351e0, type: 3}
+  - {fileID: 21300000, guid: 84a9de8f0e32c2f4fa2c74723b55cf97, type: 3}
+  - {fileID: 21300000, guid: 131c37009f7f3d242aa958e801927383, type: 3}
+  - {fileID: 21300000, guid: 3efd5e5cfc2bfb947b15f81eeeae5649, type: 3}
+  - {fileID: 21300000, guid: e053b14139ac14341b911f3b60a65f1f, type: 3}
+  - {fileID: 21300000, guid: dfbd48d3a7e80a5488221d52f935d4d5, type: 3}
+  - {fileID: 21300000, guid: 3ab12087f1a9e7a46bfe12f35a74f496, type: 3}
+  headId: 00000000010000000200000003000000040000000500000006000000
+  weaponIcons:
+  - {fileID: 21300000, guid: 47a7ef330074004459d367d17b5351e0, type: 3}
+  - {fileID: 21300170, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300042, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300028, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300050, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300070, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300178, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300016, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300128, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300122, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300100, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300040, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300096, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300104, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300066, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300108, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300126, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300118, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300054, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300180, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300044, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300150, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300058, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300010, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300090, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300120, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300064, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300140, guid: ce0a8568ce83ff245b0fbd1a586b2cb1, type: 3}
+  - {fileID: 21300000, guid: 8e1fc4457e7ee6d4d82daf37619b289d, type: 3}
+  - {fileID: 21300000, guid: 9c295dbc790558b428174bfee68447f9, type: 3}
+  - {fileID: 21300000, guid: 3e4d6862c66d99640a0623f411fc11cb, type: 3}
+  - {fileID: 21300000, guid: 398b62d3ad5e3be448dad8f86c460059, type: 3}
+  - {fileID: 21300000, guid: 1ed3ba0f85c8a24419c3a3aa622b3920, type: 3}
+  - {fileID: 21300000, guid: 47a7ef330074004459d367d17b5351e0, type: 3}
+  - {fileID: 21300000, guid: 47a7ef330074004459d367d17b5351e0, type: 3}
+  - {fileID: 21300000, guid: 47a7ef330074004459d367d17b5351e0, type: 3}
+  weaponId: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f00000020000000
+  petIcons:
+  - {fileID: 21300000, guid: 31ca0b644cfcb22449aaefa83673c3b4, type: 3}
+  - {fileID: 21300000, guid: 0202ddbf2281fdd40b2de7153cb8370a, type: 3}
+  - {fileID: 21300000, guid: 8473f7c2b0c89d54eaa7621f09c4bd17, type: 3}
+  - {fileID: 21300000, guid: be2d7b676abe71e438e367bb9c9c55f2, type: 3}
+  - {fileID: 21300000, guid: 3ab4cf1adb00e3b46892b986a7e12fe7, type: 3}
+  pets:
+  - {fileID: 114782821975272189, guid: 0e1a238aaeae29d49821b7929fd9b641, type: 2}
+  - {fileID: 114935274968205060, guid: e26ce9699cff215409db3d2ff67b5d98, type: 2}
+  - {fileID: 114739641918486275, guid: 46f0e81f6b7c0f749af218fb6a855fb2, type: 2}
+  - {fileID: 114554573138795551, guid: 0df72d07d1a6ebd4dbd312cc8852a77d, type: 2}
+  - {fileID: 114412316179436334, guid: a791dd27fa3e0224b9db541a26c78e9a, type: 2}

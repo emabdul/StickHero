@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UFOMotions
+  m_Controller: {fileID: 9100000, guid: c69c6f9186b391a449e782cf6234d81c, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 02386467c1477054bbac037e9f2a121b, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 0946cc21a15f2c54bbc17d4548f109fa, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 509dde64afa29814bb8e8407ed1fb43e, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: eb8ef6e104012954094b3b63596663d9, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 2959d287ac4215c42be42b50c0903729, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: eb8ef6e104012954094b3b63596663d9, type: 2}

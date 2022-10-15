@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: 3ab4cf1adb00e3b46892b986a7e12fe7
+timeCreated: 1665504476
+licenseType: Free
+TextureImporter:
+  serializedVersion: 11
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: icon_spider
+  externalObjects: {}
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 65
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 9
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 0
+  flipbookColumns: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: icon_spider
+      rect:
+        serializedVersion: 2
+        x: 18.07612
+        y: 26.002516
+        width: 178.91096
+        height: 137.97073
+      alignment: 9
+      pivot: {x: 0.5137968, y: 0.6088065}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -79.5316, y: -22.987892}
+        - {x: -89.5316, y: -16.987892}
+        - {x: -89.5316, y: 31.012108}
+        - {x: -68.5316, y: 58.012108}
+        - {x: -28.5316, y: 69.012115}
+        - {x: 48.4684, y: 69.012115}
+        - {x: 79.4684, y: 63.012108}
+        - {x: 89.4684, y: 34.012108}
+        - {x: 89.4684, y: -23.987892}
+        - {x: 59.4684, y: -37.98789}
+        - {x: -15.531601, y: -65.98789}
+        - {x: -18.5316, y: -68.98789}
+        - {x: -27.531603, y: -68.98789}
+        - {x: -70.5316, y: -2.9878922}
+      physicsShape:
+      - - {x: 36.4684, y: -27.987888}
+        - {x: 45.468395, y: -21.987892}
+        - {x: 51.468395, y: -19.987892}
+        - {x: 59.4684, y: -6.987892}
+        - {x: 58.4684, y: 6.012108}
+        - {x: 65.4684, y: 20.012108}
+        - {x: 75.46839, y: -14.98789}
+        - {x: 82.46839, y: -16.987892}
+        - {x: 84.4684, y: -9.987892}
+        - {x: 87.4684, y: 1.0121078}
+        - {x: 87.4684, y: 31.012108}
+        - {x: 81.4684, y: 38.012108}
+        - {x: 68.4684, y: 50.012108}
+        - {x: 60.4684, y: 50.012108}
+        - {x: 45.468395, y: 36.012108}
+        - {x: 27.4684, y: 47.012108}
+        - {x: 16.4684, y: 68.0121}
+        - {x: 7.4683986, y: 68.0121}
+        - {x: 3.468399, y: 65.01211}
+        - {x: -4.531601, y: 53.012108}
+        - {x: -17.531599, y: 54.012108}
+        - {x: -32.5316, y: 50.012108}
+        - {x: -46.531597, y: 40.012108}
+        - {x: -60.5316, y: 52.012108}
+        - {x: -66.5316, y: 51.012108}
+        - {x: -69.5316, y: 50.012108}
+        - {x: -83.53159, y: 36.012108}
+        - {x: -87.5316, y: 26.012108}
+        - {x: -87.5316, y: -17.987892}
+        - {x: -79.5316, y: -20.987892}
+        - {x: -68.5316, y: 10.012108}
+        - {x: -63.5316, y: 21.012108}
+        - {x: -48.5316, y: 10.012108}
+        - {x: -30.5316, y: -11.98789}
+        - {x: -31.5316, y: -63.987892}
+        - {x: -25.5316, y: -66.98789}
+        - {x: -17.531599, y: -66.98789}
+        - {x: -17.531599, y: -64.987885}
+        - {x: -8.531601, y: -24.987888}
+        - {x: 9.468399, y: -23.987892}
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9ef80e28b045849e8db935a530c403
+      internalID: 21300000
+      vertices:
+      - {x: 187, y: 158}
+      - {x: 197, y: 71}
+      - {x: 197, y: 129}
+      - {x: 167, y: 57.000004}
+      - {x: 156, y: 164}
+      - {x: 92, y: 29}
+      - {x: 89, y: 26}
+      - {x: 80, y: 26}
+      - {x: 79, y: 164}
+      - {x: 39, y: 153}
+      - {x: 37, y: 92}
+      - {x: 28, y: 72}
+      - {x: 18, y: 126}
+      - {x: 18, y: 78}
+      indices:
+      - 13
+      - 12
+      - 11
+      - 9
+      - 11
+      - 12
+      - 10
+      - 11
+      - 9
+      - 7
+      - 10
+      - 9
+      - 8
+      - 7
+      - 9
+      - 4
+      - 7
+      - 8
+      - 6
+      - 7
+      - 4
+      - 5
+      - 6
+      - 4
+      - 3
+      - 5
+      - 4
+      - 0
+      - 3
+      - 4
+      - 1
+      - 3
+      - 0
+      - 2
+      - 1
+      - 0
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID:
+    internalID: 0
+    vertices: []
+    indices: []
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag:
+  output:
+    textureImportInstructions:
+      compressedFormat: 0
+      uncompressedFormat: 0
+      desiredFormat: 0
+      usageMode: 0
+      colorSpace: 0
+      androidETC2FallbackFormat: 0
+      width: 0
+      height: 0
+      depth: 0
+      cubeIntermediateSize: 0
+      cubeMode: 0
+      cubeLayout: 0
+      compressionQuality: 0
+      androidETC2FallbackDownscale: 0
+      vtOnly: 0
+    sourceTextureInformation:
+      width: 0
+      height: 0
+      doesTextureContainAlpha: 0
+      sourceWasHDR: 0
+    importInspectorWarnings:
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData:
+  assetBundleName:
+  assetBundleVariant:

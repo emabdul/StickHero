@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Gator Overrider
+  m_Controller: {fileID: 9100000, guid: 0205ae1731eb10c4bbccbe33ca7a4940, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 411a36107edf16f4fb1539ddc3d0d00c, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 56f8132d61cab154ea30b90ad03332f4, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: b3e3280529e6e644ead62406f5ede861, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 1143f2ff705ccf94c917dabd7b5bd4eb, type: 2}
